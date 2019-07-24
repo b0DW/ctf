@@ -4,11 +4,11 @@
 <!ENTITY file SYSTEM "file:///challenges/web-serveur/ch29/index.php">
 ]>
 <channel>
-  <title>W3Schools Home Page</title>
+  <title>&file;</title>
   <link>https://www.w3schools.com</link>
   <description>Free web building tutorials</description>
   <item>
-    <title>&file;</title>
+    <title>1231</title>
     <link>https://www.w3schools.com/xml/xml_rss.asp</link>
     <description>New RSS tutorial on W3Schools</description>
   </item>
