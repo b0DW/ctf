@@ -23,7 +23,7 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.4</generator>
 <atom:link rel="hub" href="https://pubsubhubbub.appspot.com"/><atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com"/>	<item>
-		<title>&xxe;123</title>
+		<title>123</title>
 		<link>https://threatpost.com/katie-moussouris-the-bug-bounty-conflict-of-interest/152819/</link>
 				<comments>https://threatpost.com/katie-moussouris-the-bug-bounty-conflict-of-interest/152819/#respond</comments>
 				<pubDate>Wed, 12 Feb 2020 14:37:28 +0000</pubDate>
@@ -40,7 +40,7 @@
 		<category><![CDATA[pen testing]]></category>
 
 		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=152819</guid>
-				<description><![CDATA[Katie Moussouris sounds off on the challenges behind creating successful bug bounty programs.]]></description>
+				<description><![CDATA[Katie Moussouris sounds off on the challenges behind creating successful bug bounty programs&xxe;.]]></description>
 						<wfw:commentRss>https://threatpost.com/katie-moussouris-the-bug-bounty-conflict-of-interest/152819/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 				<enclosure url="http://traffic.libsyn.com/digitalunderground/KATIE_M_FINAL.mp3" length="0" type="audio/mpeg" />
