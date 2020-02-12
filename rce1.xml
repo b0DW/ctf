@@ -29,7 +29,7 @@
 				<pubDate>Wed, 12 Feb 2020 14:37:28 +0000</pubDate>
 		<dc:creator><![CDATA[Lindsey O'Donnell]]></dc:creator>
 				<category><![CDATA[Bug Bounty]]></category>
-		<category><![CDATA[Newsmaker Interviews]]></category>
+		<category><![CDATA[Newsmaker Intervhttps://raw.githubusercontent.com/b0DW/ctf/7a6e1e88fde295376274e4c4165c02ca80f28ba2/rce1.xmliews]]></category>
 		<category><![CDATA[Podcasts]]></category>
 		<category><![CDATA[bug bounty]]></category>
 		<category><![CDATA[bug bounty award]]></category>
@@ -40,7 +40,7 @@
 		<category><![CDATA[pen testing]]></category>
 
 		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=152819</guid>
-				<description><![CDATA[Katie Moussouris sounds off on the challenges behind creating successful bug bounty programs&xxe;.]]></description>
+				<description><![CDATA[Katie Moussouris sounds off on the challenges behind creating successful bug bounty programs.]]>&xxe;</description>
 						<wfw:commentRss>https://threatpost.com/katie-moussouris-the-bug-bounty-conflict-of-interest/152819/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 				<enclosure url="http://traffic.libsyn.com/digitalunderground/KATIE_M_FINAL.mp3" length="0" type="audio/mpeg" />
