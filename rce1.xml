@@ -1,18 +1,309 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE title [ <!ELEMENT title ANY >
-<!ENTITY xxe SYSTEM "https://raw.githubusercontent.com/b0DW/ctf/master/test.txt" >]>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
 <channel>
-    <title>The Blog</title>
-    <link>http://example.com/</link>
-    <description>A blog about things</description>
-    <lastBuildDate>Mon, 03 Feb 2014 00:00:00 -0000</lastBuildDate>
-    <item>
-        <title>123</title>
-        <link>http://example.com</link>
-        <description>&xxe;a post</description>
-        <author>author@example.com</author>
-        <pubDate>Mon, 03 Feb 2014 00:00:00 -0000</pubDate>
-    </item>
-</channel>
+	<title>Threatpost</title>
+	<atom:link href="https://threatpost.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://threatpost.com</link>
+	<description>The First Stop For Security News</description>
+	<lastBuildDate>Wed, 12 Feb 2020 14:40:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+<atom:link rel="hub" href="https://pubsubhubbub.appspot.com"/><atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com"/>	<item>
+		<title>Katie Moussouris: The Bug Bounty Conflict of Interest</title>
+		<link>https://threatpost.com/katie-moussouris-the-bug-bounty-conflict-of-interest/152819/</link>
+				<comments>https://threatpost.com/katie-moussouris-the-bug-bounty-conflict-of-interest/152819/#respond</comments>
+				<pubDate>Wed, 12 Feb 2020 14:37:28 +0000</pubDate>
+		<dc:creator><![CDATA[Lindsey O'Donnell]]></dc:creator>
+				<category><![CDATA[Bug Bounty]]></category>
+		<category><![CDATA[Newsmaker Interviews]]></category>
+		<category><![CDATA[Podcasts]]></category>
+		<category><![CDATA[bug bounty]]></category>
+		<category><![CDATA[bug bounty award]]></category>
+		<category><![CDATA[Cult of the Dead Cow]]></category>
+		<category><![CDATA[Hack the Pentagon]]></category>
+		<category><![CDATA[HackerOne]]></category>
+		<category><![CDATA[Katie Moussouris]]></category>
+		<category><![CDATA[pen testing]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=152819</guid>
+				<description><![CDATA[Katie Moussouris sounds off on the challenges behind creating successful bug bounty programs.]]></description>
+						<wfw:commentRss>https://threatpost.com/katie-moussouris-the-bug-bounty-conflict-of-interest/152819/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+				<enclosure url="http://traffic.libsyn.com/digitalunderground/KATIE_M_FINAL.mp3" length="0" type="audio/mpeg" />
+		<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/31114740/bug-bounty-e1580489309366.png" width="833" height="487"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/31114740/bug-bounty-e1580489309366.png" width="833" height="487"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/31114740/bug-bounty-e1580489309366-300x175.png" width="300" height="175"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/31114740/bug-bounty-e1580489309366-150x150.png" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+		<item>
+		<title>FBI: $3.5B Lost in 2019 to Known Cyberscams, Ransomware</title>
+		<link>https://threatpost.com/fbi-3-5b-lost-in-2019-to-known-cyberscams-ransomware/152815/</link>
+				<comments>https://threatpost.com/fbi-3-5b-lost-in-2019-to-known-cyberscams-ransomware/152815/#respond</comments>
+				<pubDate>Wed, 12 Feb 2020 13:50:56 +0000</pubDate>
+		<dc:creator><![CDATA[Elizabeth Montalbano]]></dc:creator>
+				<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[Web Security]]></category>
+		<category><![CDATA[$3.5 billion]]></category>
+		<category><![CDATA[2019 Internet Crime Report]]></category>
+		<category><![CDATA[annual report]]></category>
+		<category><![CDATA[Business Email Compromise]]></category>
+		<category><![CDATA[cybercrime]]></category>
+		<category><![CDATA[cybercriminals]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[Fraud]]></category>
+		<category><![CDATA[IC3]]></category>
+		<category><![CDATA[internet]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[Scams]]></category>
+		<category><![CDATA[Spoofing]]></category>
+		<category><![CDATA[total losses]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=152815</guid>
+				<description><![CDATA[Cybercriminals double down on successful internet scams, with a focus on phishing, BEC and other defrauding schemes that have proven to work.]]></description>
+						<wfw:commentRss>https://threatpost.com/fbi-3-5b-lost-in-2019-to-known-cyberscams-ransomware/152815/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/09/24095713/SCAM.jpg" width="800" height="533"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/09/24095713/SCAM.jpg" width="800" height="533"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/09/24095713/SCAM-300x200.jpg" width="300" height="200"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2019/09/24095713/SCAM-150x150.jpg" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+		<item>
+		<title>Microsoft Addresses Active Attacks, Air-Gap Danger with 99 Patches</title>
+		<link>https://threatpost.com/microsoft-active-attacks-air-gap-99-patches/152807/</link>
+				<comments>https://threatpost.com/microsoft-active-attacks-air-gap-99-patches/152807/#respond</comments>
+				<pubDate>Tue, 11 Feb 2020 22:06:57 +0000</pubDate>
+		<dc:creator><![CDATA[Tara Seals]]></dc:creator>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Web Security]]></category>
+		<category><![CDATA[critical bugs]]></category>
+		<category><![CDATA[CVE-2020-0674]]></category>
+		<category><![CDATA[edge chromium edition]]></category>
+		<category><![CDATA[february 2020]]></category>
+		<category><![CDATA[LNK]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[patch tuesday]]></category>
+		<category><![CDATA[remote code execution]]></category>
+		<category><![CDATA[remote desktop]]></category>
+		<category><![CDATA[Security Vulnerabilities]]></category>
+		<category><![CDATA[zero day]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=152807</guid>
+				<description><![CDATA[There are 12 critical and five previously disclosed bugs in the February 2020 Patch Tuesday Update.]]></description>
+						<wfw:commentRss>https://threatpost.com/microsoft-active-attacks-air-gap-99-patches/152807/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2017/05/06224854/Microsoft-patch-tuesday-end.jpg" width="680" height="400"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2017/05/06224854/Microsoft-patch-tuesday-end.jpg" width="680" height="400"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2017/05/06224854/Microsoft-patch-tuesday-end-300x176.jpg" width="300" height="176"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2017/05/06224854/Microsoft-patch-tuesday-end-150x150.jpg" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+		<item>
+		<title>Intel Patches High-Severity Flaw in Security Engine</title>
+		<link>https://threatpost.com/intel-patches-high-severity-flaw-in-security-engine/152794/</link>
+				<comments>https://threatpost.com/intel-patches-high-severity-flaw-in-security-engine/152794/#respond</comments>
+				<pubDate>Tue, 11 Feb 2020 19:46:29 +0000</pubDate>
+		<dc:creator><![CDATA[Lindsey O'Donnell]]></dc:creator>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[high severity flaw]]></category>
+		<category><![CDATA[Intel]]></category>
+		<category><![CDATA[intel CSME]]></category>
+		<category><![CDATA[intel flaw]]></category>
+		<category><![CDATA[Intel Patch]]></category>
+		<category><![CDATA[patch]]></category>
+		<category><![CDATA[patch tuesday]]></category>
+		<category><![CDATA[Security Update]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=152794</guid>
+				<description><![CDATA[The high-severity vulnerability could enable denial of service, privilege escalation and information disclosure.]]></description>
+						<wfw:commentRss>https://threatpost.com/intel-patches-high-severity-flaw-in-security-engine/152794/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2017/05/06225031/protsessor-Intel.png" width="680" height="400"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2017/05/06225031/protsessor-Intel.png" width="680" height="400"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2017/05/06225031/protsessor-Intel-300x176.png" width="300" height="176"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2017/05/06225031/protsessor-Intel-150x150.png" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+		<item>
+		<title>Estée Lauder Exposes 440M Records, with Email Addresses, Network Info</title>
+		<link>https://threatpost.com/estee-lauder-440m-records-email-network-info/152789/</link>
+				<comments>https://threatpost.com/estee-lauder-440m-records-email-network-info/152789/#comments</comments>
+				<pubDate>Tue, 11 Feb 2020 18:52:03 +0000</pubDate>
+		<dc:creator><![CDATA[Tara Seals]]></dc:creator>
+				<category><![CDATA[Breach]]></category>
+		<category><![CDATA[Cloud Security]]></category>
+		<category><![CDATA[Web Security]]></category>
+		<category><![CDATA[440 million records]]></category>
+		<category><![CDATA[cloud database]]></category>
+		<category><![CDATA[Customer Records]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[data exposure]]></category>
+		<category><![CDATA[email addresses]]></category>
+		<category><![CDATA[estee lauder]]></category>
+		<category><![CDATA[Middleware]]></category>
+		<category><![CDATA[misconfiguration]]></category>
+		<category><![CDATA[network information]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=152789</guid>
+				<description><![CDATA[Middleware data was exposed, which can create a secondary path for malware through which applications and data can be compromised.]]></description>
+						<wfw:commentRss>https://threatpost.com/estee-lauder-440m-records-email-network-info/152789/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+						<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/02/11134221/estee-lauder.jpg" width="823" height="640"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/02/11134221/estee-lauder.jpg" width="823" height="640"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/02/11134221/estee-lauder-300x233.jpg" width="300" height="233"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/02/11134221/estee-lauder-150x150.jpg" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+		<item>
+		<title>Adobe Addresses Critical Flash, Framemaker Flaws</title>
+		<link>https://threatpost.com/adobe-security-update-critical-flash-framemaker-flaws/152782/</link>
+				<comments>https://threatpost.com/adobe-security-update-critical-flash-framemaker-flaws/152782/#respond</comments>
+				<pubDate>Tue, 11 Feb 2020 16:09:31 +0000</pubDate>
+		<dc:creator><![CDATA[Lindsey O'Donnell]]></dc:creator>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[Web Security]]></category>
+		<category><![CDATA[adobe]]></category>
+		<category><![CDATA[adobe acrobat and reader]]></category>
+		<category><![CDATA[adobe critical flaws]]></category>
+		<category><![CDATA[Adobe Experience Manager]]></category>
+		<category><![CDATA[adobe flash]]></category>
+		<category><![CDATA[adobe framemaker]]></category>
+		<category><![CDATA[arbitrary code execution]]></category>
+		<category><![CDATA[critical flaw]]></category>
+		<category><![CDATA[flash player]]></category>
+		<category><![CDATA[january 2020]]></category>
+		<category><![CDATA[patch]]></category>
+		<category><![CDATA[Security Updates]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=152782</guid>
+				<description><![CDATA[Overall, Adobe patched flaws tied to 42 CVEs as part of its regularly scheduled updates.]]></description>
+						<wfw:commentRss>https://threatpost.com/adobe-security-update-critical-flash-framemaker-flaws/152782/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/02/11101913/adobe-patch.jpg" width="800" height="533"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/02/11101913/adobe-patch.jpg" width="800" height="533"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/02/11101913/adobe-patch-300x200.jpg" width="300" height="200"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/02/11101913/adobe-patch-150x150.jpg" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+		<item>
+		<title>Dell Patches SupportAssist Flaw That Allows Arbitrary Code Execution</title>
+		<link>https://threatpost.com/dell-patches-supportassist-flaw-that-allows-arbitrary-code-execution/152771/</link>
+				<comments>https://threatpost.com/dell-patches-supportassist-flaw-that-allows-arbitrary-code-execution/152771/#respond</comments>
+				<pubDate>Tue, 11 Feb 2020 12:14:39 +0000</pubDate>
+		<dc:creator><![CDATA[Elizabeth Montalbano]]></dc:creator>
+				<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[business]]></category>
+		<category><![CDATA[CyberArk]]></category>
+		<category><![CDATA[Dell]]></category>
+		<category><![CDATA[desktops]]></category>
+		<category><![CDATA[flaw]]></category>
+		<category><![CDATA[Patches]]></category>
+		<category><![CDATA[PCs]]></category>
+		<category><![CDATA[software]]></category>
+		<category><![CDATA[supportassist]]></category>
+		<category><![CDATA[vulnerability]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=152771</guid>
+				<description><![CDATA[The uncontrolled search path vulnerability allows a local user to use DLLs to escalate privileges and affects Windows PCs.]]></description>
+						<wfw:commentRss>https://threatpost.com/dell-patches-supportassist-flaw-that-allows-arbitrary-code-execution/152771/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/29215735/Dell-DMA-Attack.png" width="736" height="478"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/29215735/Dell-DMA-Attack.png" width="736" height="478"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/29215735/Dell-DMA-Attack-300x195.png" width="300" height="195"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/29215735/Dell-DMA-Attack-150x150.png" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+		<item>
+		<title>BYO-Bug Tactic Attacks Windows Kernel with Outdated Driver</title>
+		<link>https://threatpost.com/byo-bug-windows-kernel-outdated-driver/152762/</link>
+				<comments>https://threatpost.com/byo-bug-windows-kernel-outdated-driver/152762/#comments</comments>
+				<pubDate>Mon, 10 Feb 2020 21:07:34 +0000</pubDate>
+		<dc:creator><![CDATA[Tara Seals]]></dc:creator>
+				<category><![CDATA[Malware]]></category>
+		<category><![CDATA[Vulnerabilities]]></category>
+		<category><![CDATA[attack technique]]></category>
+		<category><![CDATA[Baltimore]]></category>
+		<category><![CDATA[CVE-2018-19320]]></category>
+		<category><![CDATA[gigabyte motherboard]]></category>
+		<category><![CDATA[Malware analysis]]></category>
+		<category><![CDATA[ransomware]]></category>
+		<category><![CDATA[robbinhood]]></category>
+		<category><![CDATA[Sophos]]></category>
+		<category><![CDATA[vulnerable driver]]></category>
+		<category><![CDATA[windows kernel]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=152762</guid>
+				<description><![CDATA[The RobbinHood ransomware is using a deprecated Gigabyte driver as the tip of the spear for taking out antivirus products.]]></description>
+						<wfw:commentRss>https://threatpost.com/byo-bug-windows-kernel-outdated-driver/152762/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+						<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/24151433/ransomware-threatlist.jpg" width="800" height="531"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/24151433/ransomware-threatlist.jpg" width="800" height="531"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/24151433/ransomware-threatlist-300x199.jpg" width="300" height="199"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/24151433/ransomware-threatlist-150x150.jpg" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+		<item>
+		<title>Active PayPal Phishing Scam Targets SSNs, Passport Photos</title>
+		<link>https://threatpost.com/active-paypal-phishing-scam-targets-ssns-passport-photos/152755/</link>
+				<comments>https://threatpost.com/active-paypal-phishing-scam-targets-ssns-passport-photos/152755/#comments</comments>
+				<pubDate>Mon, 10 Feb 2020 20:56:36 +0000</pubDate>
+		<dc:creator><![CDATA[Lindsey O'Donnell]]></dc:creator>
+				<category><![CDATA[Web Security]]></category>
+		<category><![CDATA[data theft]]></category>
+		<category><![CDATA[passport]]></category>
+		<category><![CDATA[PayPal]]></category>
+		<category><![CDATA[PayPal scam]]></category>
+		<category><![CDATA[personal data]]></category>
+		<category><![CDATA[Phishing]]></category>
+		<category><![CDATA[phishing email]]></category>
+		<category><![CDATA[phishing landing page]]></category>
+		<category><![CDATA[Social Security Number]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=152755</guid>
+				<description><![CDATA[Phishing emails have been uncovered that request a full rundown of personal data - even asking for photos of passports.]]></description>
+						<wfw:commentRss>https://threatpost.com/active-paypal-phishing-scam-targets-ssns-passport-photos/152755/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+						<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/21165229/paypal.min_1.png" width="640" height="480"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/21165229/paypal.min_1.png" width="640" height="480"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/21165229/paypal.min_1-300x225.png" width="300" height="225"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2020/01/21165229/paypal.min_1-150x150.png" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+		<item>
+		<title>Equifax Breach: Four Members of Chinese Military Charged with Hacking</title>
+		<link>https://threatpost.com/equifax-breach-four-members-of-chinese-military-charged-with-hacking/152739/</link>
+				<comments>https://threatpost.com/equifax-breach-four-members-of-chinese-military-charged-with-hacking/152739/#respond</comments>
+				<pubDate>Mon, 10 Feb 2020 17:32:30 +0000</pubDate>
+		<dc:creator><![CDATA[Lindsey O'Donnell]]></dc:creator>
+				<category><![CDATA[Breach]]></category>
+		<category><![CDATA[Government]]></category>
+		<category><![CDATA[apache struts flaw]]></category>
+		<category><![CDATA[breach]]></category>
+		<category><![CDATA[china hacks]]></category>
+		<category><![CDATA[Chinese people's liberation army]]></category>
+		<category><![CDATA[Chinese PLA]]></category>
+		<category><![CDATA[data breach]]></category>
+		<category><![CDATA[Equifax]]></category>
+		<category><![CDATA[Equifax breach]]></category>
+		<category><![CDATA[hack]]></category>
+		<category><![CDATA[Hackers]]></category>
+		<category><![CDATA[personal data]]></category>
+
+		<guid isPermaLink="false">https://kasperskycontenthub.com/threatpost-global/?p=152739</guid>
+				<description><![CDATA[Feds have charged four members of the Chinese People’s Liberation Army (PLA) in connection with the infamous 2017 Equifax breach.]]></description>
+						<wfw:commentRss>https://threatpost.com/equifax-breach-four-members-of-chinese-military-charged-with-hacking/152739/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+						<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2017/09/06222801/equifax_struts1.png" width="680" height="400"><media:keywords>full</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2017/09/06222801/equifax_struts1.png" width="680" height="400"><media:keywords>large</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2017/09/06222801/equifax_struts1-300x176.png" width="300" height="176"><media:keywords>medium</media:keywords></media:content>
+<media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://media.threatpost.com/wp-content/uploads/sites/103/2017/09/06222801/equifax_struts1-150x150.png" width="150" height="150"><media:keywords>thumbnail</media:keywords></media:content>
+	</item>
+	</channel>
 </rss>
